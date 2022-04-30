@@ -33,8 +33,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 The following image shows the web application's appearance and functionality:
 
-![Challenge Demo](./Assets/19-pwa-homework-demo-01.png)
-
+![Challenge Demo](https://user-images.githubusercontent.com/94471049/166095367-fd47c2fe-3c0d-48bc-8de4-609baf9867db.png)
 
 ## Getting Started
 
