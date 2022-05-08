@@ -1,15 +1,8 @@
-# 19 Progressive Web Applications (PWA): Budget Tracker
+# C-19-Progressive-Web-Applications-PWA_Budget-Tracker
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
 
 Your challenge this week is to add functionality to an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should update the total when brought back online. Finally, you’ll deploy the application to Heroku.
-
-Before you start, clone the [starter code](https://github.com/coding-boot-camp/symmetrical-bassoon).
-
-> **On the Job:** When web developers are working on a feature request or trying to kill a bug, they rarely have all the information they need to solve the task in front of them. Being a successful developer requires you to combine knowledge that you’ve picked up from different applications you’ve worked on in the past to formulate a solution.
-> 
-> This Challenge will ask you to combine several tasks that you’ve learned over this module and the previous one to add offline functionality to an existing application. We’ve outlined how you can achieve this in the Getting Started section below.
-
 
 ## User Story
 
@@ -86,14 +79,9 @@ This `manifest.json` file for this project will contain the following properties
 Finally, the budget tracker has a server and uses MongoDB as its database, so you’ll need to deploy this application to Heroku using MongoDB Atlas. To review this process, look at Module 18: NoSQL, Lesson 5: Add Mongoose Validation, specifically 18.5.5: Deploy to Heroku.
 
 
-## Review
+* The URL of the functional: https://thawing-dusk-86360.herokuapp.com/
 
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository: https://github.com/kakudiego/C-19-Progressive-Web-Applications-PWA_Budget-Tracker
 
 - - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-# C-19-Progressive-Web-Applications(PWA)_Budget-Tracker
+
