@@ -1,5 +1,13 @@
 # C-19-Progressive-Web-Applications-PWA_Budget-Tracker
 
+![Profile Image](https://github.com/kakudiego.png?size=50)
+[![Badge](https://img.shields.io/badge/Github-kakudiego-4cbbb9)](https://github.com/kakudiego)
+[![badge](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/licenses/MIT)
+
+- - -
+
+## Description
+
 Your challenge this week is to add functionality to an existing budget tracker application to allow for offline access and functionality. 
 The user will be able to add expenses and deposits to their budget with or without a connection. 
 When entering transactions offline, they should update the total when brought back online. 
@@ -27,9 +35,13 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 * The URL of the GitHub repository: https://github.com/kakudiego/C-19-Progressive-Web-Applications-PWA_Budget-Tracker
 
+- - -
+
 The following image shows the web application's appearance and functionality:
 
 ![budget-tracker](https://user-images.githubusercontent.com/94471049/167281309-415aac1f-3725-4429-8705-86b06cb1b735.png)
+
+- - -
 
 ![indexDB](https://user-images.githubusercontent.com/94471049/167281315-8e43b0c9-0e07-42ca-9ea7-d42831bbda12.png)
 
